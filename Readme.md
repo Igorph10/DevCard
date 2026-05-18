@@ -30,25 +30,13 @@ O **DevCard** é um cartão de visita digital para desenvolvedores mobile.
 ## Capturas de tela
 
 ### 1. Boas-vindas
-
-<img src="Images/Tela Home.jpeg" alt="YouTube Diferenciado Preview" width="300" >
-
-### 2. Cadastro
-<img src="Images/Tela de Cadastro.jpeg" alt="YouTube Diferenciado Preview" width="300" >
-
-### 3. Preview do Cartão
-<img src="Images/Tela de Preview.jpeg" alt="YouTube Diferenciado Preview" width="300" >
-
-### 4. Sucesso
-<img src="Images/Tela de Sucesso.jpeg" alt="YouTube Diferenciado Preview" width="300" >
-
-<img src="./images/tela1-boasvindas.png" alt="Tela Home de Boas-Vindas" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+<img src="Images/Tela Home.jpeg" alt="YouTube Diferenciado Preview" width="300" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 2. Cadastro
-<img src="./images/tela2-cadastro.png" alt="Tela de Cadastro" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+<img src="Images/Tela de Cadastro.jpeg" alt="YouTube Diferenciado Preview" width="300" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 3. Preview do Cartão
-<img src="./images/tela3-preview.png" alt="Tela de Preview" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+<img src="Images/Tela de Preview.jpeg" alt="YouTube Diferenciado Preview" width="300" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 4. Sucesso
-<img src="./images/tela4-sucesso.png" alt="Tela de Sucesso" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+<img src="Images/Tela de Sucesso.jpeg" alt="YouTube Diferenciado Preview" width="300" style="display: block; margin-left: auto; margin-right: auto;" >
