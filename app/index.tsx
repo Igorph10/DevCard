@@ -7,11 +7,12 @@ export default function BoasVindas() {
   return (
     <View style={styles.container}>
       <View style={styles.card}>
-
+        {/* Imagem de um Cartãozinho para a Tela Home */}
         <View style={styles.iconContainer}>
           <Text style={styles.icon}>💳</Text>
         </View>
 
+        {/* Informações de Apresentação da Tela Home */}
         <Text style={styles.title}>DevCard</Text>
         <Text style={styles.subtitle}>
           Seu cartão de visita digital{"\n"}de dev mobile

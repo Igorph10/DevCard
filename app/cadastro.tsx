@@ -1,14 +1,5 @@
 import React, { useState } from "react";
-import {
-  View,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  StyleSheet,
-  ScrollView,
-  KeyboardAvoidingView,
-  Platform,
-} from "react-native";
+import { View, Text, TextInput, TouchableOpacity, StyleSheet, ScrollView, KeyboardAvoidingView, Platform } from "react-native";
 import { useRouter } from "expo-router";
 
 const cores = [
@@ -169,7 +160,6 @@ const styles = StyleSheet.create({
     flexGrow: 1,
     alignItems: "center",
   },
-
   header: {
     fontSize: 26,
     fontWeight: "bold",
@@ -177,14 +167,12 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#1F2937",
   },
-
   subtitle: {
     fontSize: 14,
     color: "#666",
     textAlign: "center",
     marginBottom: 22,
   },
-
   boxRegister: {
     fontSize: 15,
     fontWeight: "600",
@@ -194,13 +182,11 @@ const styles = StyleSheet.create({
     width: "100%",
     maxWidth: 500,
   },
-
   opcional: {
     fontWeight: "400",
     color: "#9CA3AF",
     fontSize: 13,
   },
-
   input: {
     borderWidth: 2,
     borderColor: "#E5E7EB",
@@ -213,11 +199,9 @@ const styles = StyleSheet.create({
     width: "100%",
     maxWidth: 500,
   },
-
   inputErro: {
     borderColor: "#EF4444",
   },
-
   erro: {
     color: "#EF4444",
     fontSize: 13,
@@ -227,7 +211,6 @@ const styles = StyleSheet.create({
     width: "100%",
     maxWidth: 500,
   },
-
   corContainer: {
     flexDirection: "row",
     gap: 12,
@@ -236,7 +219,6 @@ const styles = StyleSheet.create({
     width: "100%",
     maxWidth: 500,
   },
-
   corBotao: {
     flex: 1,
     padding: 14,
@@ -249,28 +231,23 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     gap: 8,
   },
-
   corSelecionada: {
     borderColor: "#6C63FF",
     backgroundColor: "#EDE7FF",
   },
-
   bolinhaCor: {
     width: 14,
     height: 14,
     borderRadius: 7,
   },
-
   corTexto: {
     fontWeight: "600",
     color: "#6B7280",
     fontSize: 14,
   },
-
   corTextoSelecionada: {
     color: "#6C63FF",
   },
-
   botaoGerar: {
     backgroundColor: "#6C63FF",
     paddingTop: 16,
@@ -286,7 +263,6 @@ const styles = StyleSheet.create({
     shadowRadius: 8,
     elevation: 6,
   },
-
   botaoTexto: {
     color: "#FFFFFF",
     fontSize: 18,
