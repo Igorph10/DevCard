@@ -28,13 +28,13 @@ O **DevCard** é um cartão de visita digital para desenvolvedores mobile.
 ## Capturas de tela
 
 ### 1. Boas-vindas
-![Tela de Boas-vindas](./images/tela1-boasvindas.png)
+<img src="./images/tela1-boasvindas.png" alt="Tela Home de Boas-Vindas" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 2. Cadastro
-![Tela de Cadastro](./images/tela2-cadastro.png)
+<img src="./images/tela2-cadastro.png" alt="Tela de Cadastro" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 3. Preview do Cartão
-![Preview do Cartão](./images/tela3-preview.png)
+<img src="./images/tela3-preview.png" alt="Tela de Preview" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
 
 ### 4. Sucesso
-![Tela de Sucesso](./images/tela4-sucesso.png)
+<img src="./images/tela4-sucesso.png" alt="Tela de Sucesso" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
