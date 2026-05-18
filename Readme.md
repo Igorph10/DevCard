@@ -1,13 +1,21 @@
 # 2º Instrumento Avaliativo - Aplicação Móveis
 - Professor Brendo Vale
 - Aluno: Igor César Pinheiro da Silva
+<<<<<<< HEAD
 - Turma: SIS 2026/1
+=======
+>>>>>>> 591ff088fac5a3bb3507f7367ae3ede6881a7f7f
 
 ---
 
 ## App DevCard
 
+<<<<<<< HEAD
 Criação de um App, chamado **DevCard**, onde seria um cartão de visita digital mobile, para desenvolvedores ou profissionais da TI. A produção deste App foi a partir da IA2 (Instrumento Avaliativo), do 2º bimestre, da matéria de Aplicações Móveis, com o professor Brendo Vale.
+=======
+App criado como uma IA (Instrumento Avaliativo), do 2º bimestre, da matéria de Aplicações Móveis, com o professor Brendo Vale.
+O **DevCard** é um cartão de visita digital para desenvolvedores mobile.
+>>>>>>> 591ff088fac5a3bb3507f7367ae3ede6881a7f7f
 
 ### Funcionalidades
 
@@ -28,6 +36,7 @@ Criação de um App, chamado **DevCard**, onde seria um cartão de visita digita
 ## Capturas de tela
 
 ### 1. Boas-vindas
+<<<<<<< HEAD
 <img src="Images/Tela Home.jpeg" alt="YouTube Diferenciado Preview" width="300" >
 
 ### 2. Cadastro
@@ -38,3 +47,15 @@ Criação de um App, chamado **DevCard**, onde seria um cartão de visita digita
 
 ### 4. Sucesso
 <img src="Images/Tela de Sucesso.jpeg" alt="YouTube Diferenciado Preview" width="300" >
+=======
+<img src="./images/tela1-boasvindas.png" alt="Tela Home de Boas-Vindas" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+
+### 2. Cadastro
+<img src="./images/tela2-cadastro.png" alt="Tela de Cadastro" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+
+### 3. Preview do Cartão
+<img src="./images/tela3-preview.png" alt="Tela de Preview" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+
+### 4. Sucesso
+<img src="./images/tela4-sucesso.png" alt="Tela de Sucesso" width="350" style="display: block; margin-left: auto; margin-right: auto;" >
+>>>>>>> 591ff088fac5a3bb3507f7367ae3ede6881a7f7f
